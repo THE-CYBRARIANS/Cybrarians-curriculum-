@@ -13,7 +13,7 @@ Contents
 	•	Track 7: Offensive Security (Web Security)
 	•	Track 8: Cloud Security
 
-Legend: [SP] = Self-paced course · [IL] = Instructor-led course · → / > = take in this order
+→ means take the courses in this order.
 
 Track 1: Community Leaders and Core Team Members
 
@@ -21,16 +21,16 @@ Goal: Run a student-led cybersecurity community well: communications, events, pa
 
 Version A
 
-	•	Digital Awareness [SP]
-	•	Digital Safety and Security Awareness [SP]
-	•	AI foundation: Introduction to Modern AI → Core Generative AI Skills → Prompt Like an Engineer [SP]
-	•	Optimizing Generative AI [SP]
-	•	Create Digital Content, Communicate and Collaborate Online [SP]
-	•	Engaging Stakeholders for Success [SP]
-	•	Discovering Entrepreneurship → Launching a Business Venture [SP] (sponsorship, budgets, sustaining the community)
-	•	Build Your Resume with AI [SP] (so leaders can coach members)
-	•	Creating Compelling Reports [SP] (sponsor reports, impact reports, event write-ups)
-	•	AI Power User Launchpad [SP] (productivity workflows for a small volunteer team)
+	•	Digital Awareness
+	•	Digital Safety and Security Awareness
+	•	AI foundation: Introduction to Modern AI → Core Generative AI Skills → Prompt Like an Engineer
+	•	Optimizing Generative AI
+	•	Create Digital Content, Communicate and Collaborate Online
+	•	Engaging Stakeholders for Success
+	•	Discovering Entrepreneurship → Launching a Business Venture (sponsorship, budgets, sustaining the community)
+	•	Build Your Resume with AI (so leaders can coach members)
+	•	Creating Compelling Reports (sponsor reports, impact reports, event write-ups)
+	•	AI Power User Launchpad (productivity workflows for a small volunteer team)
 
 Track 2: SOC / Cybersecurity Analyst (leveraging AI)
 
@@ -40,10 +40,10 @@ Version A
 
 	•	Introduction to Cybersecurity
 	•	CCNA 1: Introduction to Networks / Networking Basics
-	•	Linux Essentials [SP]
-	•	Python Essentials 1 [SP] (log parsing and small automations)
-	•	AI foundation + Optimizing Generative AI [SP]
-	•	CyberOps Associate [IL ✓] (the core: threats, monitoring, detection, incident response)
+	•	Linux Essentials
+	•	Python Essentials 1 (log parsing and small automations)
+	•	AI foundation + Optimizing Generative AI
+	•	CyberOps Associate (the core: threats, monitoring, detection, incident response)
 
 Version B
 
@@ -53,9 +53,9 @@ Version B
 	•	Endpoint Security
 	•	Cyber Threat Management
 	•	Network Support and Security
-	•	Introduction to Splunk [SP] → SOC Essentials: Investigating with Splunk [SP]
-	•	SOC Essentials: Introduction to Threat Hunting [SP]
-	•	Security Operations and the Defense Analyst [SP] → Data and Tools for Defense Analysts [SP] → The Art of Investigation
+	•	Introduction to Splunk → SOC Essentials: Investigating with Splunk
+	•	SOC Essentials: Introduction to Threat Hunting
+	•	Security Operations and the Defense Analyst → Data and Tools for Defense Analysts → The Art of Investigation
 	•	Find Insights with AI
 
 Track 3: Core Network Engineering
@@ -64,11 +64,11 @@ Goal: Design, configure and troubleshoot enterprise networks and automate the re
 
 Version A
 
-	•	AI foundation + Optimizing Generative AI [SP]
-	•	CCNA 1 → CCNA 2 → CCNA 3 [IL ✓]
-	•	Linux Essentials [SP]
-	•	Python Essentials 1 [SP] (automation foundation)
-	•	CCNP Enterprise: Core Networking (v9) [IL ✗] and Advanced Routing (v9) [IL ✗] as the career step
+	•	AI foundation + Optimizing Generative AI
+	•	CCNA 1 → CCNA 2 → CCNA 3
+	•	Linux Essentials
+	•	Python Essentials 1 (automation foundation)
+	•	CCNP Enterprise: Core Networking (v9) and Advanced Routing (v9) as the career step
 
 Version B (adds)
 
@@ -76,7 +76,7 @@ Version B (adds)
 	•	Networking Basics → Networking Devices and Initial Configuration → Network Addressing and Basic Troubleshooting → Network Support and Security
 	•	Linux Essentials
 	•	Python Essentials
-	•	Optimizing Generative AI for Technical Work [IL ✗]
+	•	Optimizing Generative AI for Technical Work
 
 Track 4: Network Security Engineering
 
@@ -84,12 +84,12 @@ Goal: Secure the network: firewalls, segmentation, VPNs, detection, hardening.
 
 Version A
 
-	•	AI foundation + Optimizing Generative AI [SP]
+	•	AI foundation + Optimizing Generative AI
 	•	Introduction to Cybersecurity
-	•	CCNA 1 → 2 → 3 [IL ✓]
-	•	Linux Essentials [SP]; Python Essentials 1 [SP]
-	•	CyberOps Associate [IL ✓]
-	•	CCNP Enterprise: Core Networking (v9) [IL ✗] when ready for the engineering step
+	•	CCNA 1 → 2 → 3
+	•	Linux Essentials; Python Essentials 1
+	•	CyberOps Associate
+	•	CCNP Enterprise: Core Networking (v9) when ready for the engineering step
 	•	Network Security
 
 Version B (adds)
@@ -105,15 +105,15 @@ Goal: Be the person who fixes hardware, operating systems, connectivity and user
 
 Version A (the self-paced substitute for IT Essentials)
 
-	•	Using Computer and Mobile Devices [SP]
-	•	Computer Hardware Basics [SP] → Hardware and Upgrade Support [SP]
-	•	Operating Systems Basics [SP] → Operating Systems Support [SP]
-	•	Networking Basics [SP] → Network Addressing and Basic Troubleshooting [SP]
-	•	Security and Connectivity Support [SP] and Digital Safety and Security Awareness [SP]
-	•	IT Customer Support Basics [SP]
+	•	Using Computer and Mobile Devices
+	•	Computer Hardware Basics → Hardware and Upgrade Support
+	•	Operating Systems Basics → Operating Systems Support
+	•	Networking Basics → Network Addressing and Basic Troubleshooting
+	•	Security and Connectivity Support and Digital Safety and Security Awareness
+	•	IT Customer Support Basics
 	•	Linux Unhatched
-	•	AI foundation + Build Your Resume with AI [SP]
-	•	Stretch goal: CCNA 1 [IL ✓] for learners who want to move toward networking
+	•	AI foundation + Build Your Resume with AI
+	•	Stretch goal: CCNA 1 for learners who want to move toward networking
 
 Track 6: Governance, Risk and Compliance (GRC)
 
@@ -122,13 +122,13 @@ Goal: Policy, risk, compliance, audit and awareness: the non-hands-on side of se
 Version A
 
 	•	Introduction to Cybersecurity
-	•	Digital Awareness [SP]; Digital Safety and Security Awareness [SP]
-	•	AI foundation + Optimizing Generative AI [SP]
-	•	Networking Basics [SP]
+	•	Digital Awareness; Digital Safety and Security Awareness
+	•	AI foundation + Optimizing Generative AI
+	•	Networking Basics
 	•	Cyber Threat Management
 	•	Creating Compelling Reports
-	•	Introduction to IoT and Digital Transformation [SP] (the risk surface of modern organisations)
-	•	Engaging Stakeholders for Success [SP]
+	•	Introduction to IoT and Digital Transformation (the risk surface of modern organisations)
+	•	Engaging Stakeholders for Success
 
 Track 7: Offensive Security (Web Security)
 
@@ -136,12 +136,12 @@ Goal: Find and responsibly report web vulnerabilities.
 
 Version A
 
-	•	AI foundation + Optimizing Generative AI [SP]
+	•	AI foundation + Optimizing Generative AI
 	•	Networking Basics
-	•	Linux Essentials → Linux 1 [SP]
-	•	HTML Essentials [SP] → CSS Essentials [SP]
+	•	Linux Essentials → Linux 1
+	•	HTML Essentials → CSS Essentials
 	•	JavaScript Essentials
-	•	Python Essentials 1 [SP]
+	•	Python Essentials 1
 	•	PortSwigger Labs: client-side vulnerabilities → server-side vulnerabilities
 	•	DVWA Labs
 
@@ -153,7 +153,7 @@ Do AWS hands-on labs every week, through every phase.
 
 Phase 1: Foundations
 
-	1.	AI foundation + Optimizing Generative AI [SP]
+	1.	AI foundation + Optimizing Generative AI
 	2.	Cisco Introduction to Cybersecurity
 	•	Resource: Cisco NetAcad (free)
 	3.	Cisco CCNA 1 / Networking Basics
@@ -186,4 +186,3 @@ Phase 4: Specialization
 
 Contributing
 
-Spotted a broken course name or want to suggest a new track? Open an issue or pull request.
