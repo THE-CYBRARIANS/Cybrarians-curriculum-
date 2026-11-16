@@ -2,7 +2,27 @@ The Cybrarians Community Curriculum
 
 A set of learning tracks for members of THE_CYBRARIANS (Cisco Networking Academy at KWASU). Pick the track that matches where you want to go, then work through its courses in order.
 
-Contents
+Resources 
+
+https://www.netacad.com/courses/ibm-foundations-understanding-ai?courseLang=en-US&instance_id=bdd4b78f-4660-4e68-ab36-d2db88eb2854
+
+https://www.netacad.com/courses/aibiz-core-generative-ai-skills?courseLang=en-US&instance_id=a3125427-40b8-4446-9cd6-6f4ba12f1d9d
+
+https://www.netacad.com/courses/aibiz-optimizing-generative-ai?courseLang=en-US&instance_id=64161399-d955-4d0c-8bf7-f65aaf810629
+
+https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US&instance_id=f908c6b5-7cd2-466d-a4ba-a19de81b5d7a
+
+https://www.netacad.com/courses/python-essentials-1?courseLang=en-US&instance_id=022a7420-71f7-4b81-afff-4a0d2226234e
+
+https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6611a1b1-4387-40f9-b7d2-9adc5cbb8b12
+
+https://www.netacad.com/courses/compelling-reports?courseLang=en-US&instance_id=87d900aa-4a63-4da8-bb1e-fc8dd15ca2c1
+
+https://www.netacad.com/courses/linux-1?courseLang=en-US&instance_id=007f4d3d-90aa-4d9b-a129-9fe26c8f4223
+
+https://www.netacad.com/courses/apply-ai-prompt-like-engineer?courseLang=en-US&instance_id=d0d90956-6ca0-41a0-83db-555f43da6450
+
+contents 
 
 	•	Track 1: Community Leaders and Core Team Members
 	•	Track 2: SOC / Cybersecurity Analyst
