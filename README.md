@@ -30,6 +30,9 @@ https://www.netacad.com/courses/linux-1?courseLang=en-US&instance_id=007f4d3d-90
 prompt engineering course 
 https://www.netacad.com/courses/apply-ai-prompt-like-engineer?courseLang=en-US&instance_id=d0d90956-6ca0-41a0-83db-555f43da6450
 
+cyber ops associate course 
+https://www.netacad.com/trainings/cyberops-associate?courseLang=en-US&instance_id=f188ebad-c7e4-499d-9de9-fb732a1553a7
+
 contents 
 
 	•	Track 1: Community Leaders and Core Team Members
