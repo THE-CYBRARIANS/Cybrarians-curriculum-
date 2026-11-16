@@ -1,8 +1,9 @@
-The Cybrarians Community Curriculum
+THE CYBRARIANS COMMUNITY CURRICULUM 
 
-A set of learning tracks for members of THE_CYBRARIANS (Cisco Networking Academy at KWASU). Pick the track that matches where you want to go, then work through its courses in order.
+A set of learning tracks for members of THE_CYBRARIANS (Cisco Networking Academy at KWASU). 
+Pick the track that matches where you want to go, then work through its courses in order.
 
-Resources 
+RESOURCES 
 
 AI foundations
 https://www.netacad.com/courses/ibm-foundations-understanding-ai?courseLang=en-US&instance_id=bdd4b78f-4660-4e68-ab36-d2db88eb2854
@@ -34,7 +35,7 @@ https://www.netacad.com/courses/apply-ai-prompt-like-engineer?courseLang=en-US&i
 cyber ops associate course 
 https://www.netacad.com/trainings/cyberops-associate?courseLang=en-US&instance_id=f188ebad-c7e4-499d-9de9-fb732a1553a7
 
-contents 
+CONTENTS 
 
 	•	Track 1: Community Leaders and Core Team Members
 	•	Track 2: SOC / Cybersecurity Analyst
