@@ -38,17 +38,18 @@ Goal: Become a Tier-1/Tier-2 SOC analyst who uses AI to triage faster without tr
 
 Version A
 
-	•	Introduction to Cybersecurity
-	•	CCNA 1: Introduction to Networks / Networking Basics
-	•	Linux Essentials
+	•	Introduction to Cybersecurity(https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US&instance_id=f908c6b5-7cd2-466d-a4ba-a19de81b5d7a)
+	•	CCNA 1: Introduction to Networks / Networking 
+Basics(https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6611a1b1-4387-40f9-b7d2-9adc5cbb8b12)
+	•	Linux Essentials(https://www.netacad.com/courses/linux-1?courseLang=en-US&instance_id=007f4d3d-90aa-4d9b-a129-9fe26c8f4223)
 	•	Python Essentials 1 (log parsing and small automations)
-	•	AI foundation + Optimizing Generative AI
-	•	CyberOps Associate (the core: threats, monitoring, detection, incident response)
+	•	AI foundation + Optimizing Generative AI(https://www.netacad.com/courses/aibiz-core-generative-ai-skills?courseLang=en-US&instance_id=a3125427-40b8-4446-9cd6-6f4ba12f1d9d)
+	•	CyberOps Associate (the core: threats, monitoring, detection, incident response)(https://www.netacad.com/trainings/cyberops-associate?courseLang=en-US&instance_id=f188ebad-c7e4-499d-9de9-fb732a1553a7)
 
 Version B
 
-	•	Introduction to Cybersecurity
-	•	Networking Basics
+	•	Introduction to Cybersecurity(https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US&instance_id=f908c6b5-7cd2-466d-a4ba-a19de81b5d7a)
+	•	Networking Basics(https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6611a1b1-4387-40f9-b7d2-9adc5cbb8b12)
 	•	Networking Devices and Initial Configuration
 	•	Endpoint Security
 	•	Cyber Threat Management
@@ -64,40 +65,40 @@ Goal: Design, configure and troubleshoot enterprise networks and automate the re
 
 Version A
 
-	•	AI foundation + Optimizing Generative AI
+	•	AI foundation + Optimizing Generative AI(https://www.netacad.com/courses/aibiz-core-generative-ai-skills?courseLang=en-US&instance_id=a3125427-40b8-4446-9cd6-6f4ba12f1d9d, https://www.netacad.com/courses/aibiz-optimizing-generative-ai?courseLang=en-US&instance_id=64161399-d955-4d0c-8bf7-f65aaf810629,https://www.netacad.com/courses/apply-ai-prompt-like-engineer?courseLang=en-US&instance_id=d0d90956-6ca0-41a0-83db-555f43da6450 )
 	•	CCNA 1 → CCNA 2 → CCNA 3
-	•	Linux Essentials
-	•	Python Essentials 1 (automation foundation)
+	•	Linux Essentials(https://www.netacad.com/courses/linux-1?courseLang=en-US&instance_id=007f4d3d-90aa-4d9b-a129-9fe26c8f4223)
+	•	Python Essentials 1 (automation foundation)(https://www.netacad.com/courses/python-essentials-1?courseLang=en-US&instance_id=022a7420-71f7-4b81-afff-4a0d2226234e)
 	•	CCNP Enterprise: Core Networking (v9) and Advanced Routing (v9) as the career step
 
 Version B (adds)
 
 	•	Getting Started with Cisco Packet Tracer
-	•	Networking Basics → Networking Devices and Initial Configuration → Network Addressing and Basic Troubleshooting → Network Support and Security
-	•	Linux Essentials
-	•	Python Essentials
+	•	Networking Basics → Networking Devices and Initial Configuration → Network Addressing and Basic Troubleshooting → Network Support and Security(https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6611a1b1-4387-40f9-b7d2-9adc5cbb8b12)
+	•	Linux Essentials(https://www.netacad.com/courses/linux-1?courseLang=en-US&instance_id=007f4d3d-90aa-4d9b-a129-9fe26c8f4223)
+	•	Python Essentials(https://www.netacad.com/courses/python-essentials-1?courseLang=en-US&instance_id=022a7420-71f7-4b81-afff-4a0d2226234e)
 	•	Optimizing Generative AI for Technical Work
-
+(https://www.netacad.com/courses/aibiz-optimizing-generative-ai?courseLang=en-US&instance_id=64161399-d955-4d0c-8bf7-f65aaf810629)
 Track 4: Network Security Engineering
 
 Goal: Secure the network: firewalls, segmentation, VPNs, detection, hardening.
 
 Version A
 
-	•	AI foundation + Optimizing Generative AI
-	•	Introduction to Cybersecurity
+	•	AI foundation + Optimizing Generative AI(https://www.netacad.com/courses/aibiz-optimizing-generative-ai?courseLang=en-US&instance_id=64161399-d955-4d0c-8bf7-f65aaf810629)
+	•	Introduction to Cybersecurity(https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US&instance_id=f908c6b5-7cd2-466d-a4ba-a19de81b5d7a)
 	•	CCNA 1 → 2 → 3
-	•	Linux Essentials; Python Essentials 1
+	•	Linux Essentials; Python Essentials 1(https://www.netacad.com/courses/linux-1?courseLang=en-US&instance_id=007f4d3d-90aa-4d9b-a129-9fe26c8f4223)
 	•	CyberOps Associate
 	•	CCNP Enterprise: Core Networking (v9) when ready for the engineering step
 	•	Network Security
 
 Version B (adds)
 
-	•	Networking Basics → Networking Devices and Initial Configuration → Network Addressing and Basic Troubleshooting → Network Support and Security
+	•	Networking Basics → Networking Devices and Initial Configuration → Network Addressing and Basic Troubleshooting → Network Support and Security (https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6611a1b1-4387-40f9-b7d2-9adc5cbb8b12)
 	•	Endpoint Security
-	•	Linux Essentials
-	•	Python Essentials
+	•	Linux Essentials (https://www.netacad.com/courses/linux-1?courseLang=en-US&instance_id=007f4d3d-90aa-4d9b-a129-9fe26c8f4223)
+	•	Python Essentials (https://www.netacad.com/courses/python-essentials-1?courseLang=en-US&instance_id=022a7420-71f7-4b81-afff-4a0d2226234e)
 
 Track 5: IT Support
 
@@ -121,10 +122,10 @@ Goal: Policy, risk, compliance, audit and awareness: the non-hands-on side of se
 
 Version A
 
-	•	Introduction to Cybersecurity
+	•	Introduction to Cybersecurity (https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US&instance_id=f908c6b5-7cd2-466d-a4ba-a19de81b5d7a)
 	•	Digital Awareness; Digital Safety and Security Awareness
-	•	AI foundation + Optimizing Generative AI
-	•	Networking Basics
+	•	AI foundation + Optimizing Generative AI (https://www.netacad.com/courses/aibiz-optimizing-generative-ai?courseLang=en-US&instance_id=64161399-d955-4d0c-8bf7-f65aaf810629)
+	•	Networking Basics (https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6611a1b1-4387-40f9-b7d2-9adc5cbb8b12)
 	•	Cyber Threat Management
 	•	Creating Compelling Reports
 	•	Introduction to IoT and Digital Transformation (the risk surface of modern organisations)
@@ -136,12 +137,12 @@ Goal: Find and responsibly report web vulnerabilities.
 
 Version A
 
-	•	AI foundation + Optimizing Generative AI
-	•	Networking Basics
-	•	Linux Essentials → Linux 1
+	•	AI foundation + Optimizing Generative AI (https://www.netacad.com/courses/aibiz-optimizing-generative-ai?courseLang=en-US&instance_id=64161399-d955-4d0c-8bf7-f65aaf810629)
+	•	Networking Basics (https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6611a1b1-4387-40f9-b7d2-9adc5cbb8b12)
+	•	Linux Essentials → Linux 1 (https://www.netacad.com/courses/linux-1?courseLang=en-US&instance_id=007f4d3d-90aa-4d9b-a129-9fe26c8f4223) 
 	•	HTML Essentials → CSS Essentials
 	•	JavaScript Essentials
-	•	Python Essentials 1
+	•	Python Essentials 1 (https://www.netacad.com/courses/python-essentials-1?courseLang=en-US&instance_id=022a7420-71f7-4b81-afff-4a0d2226234e) 
 	•	PortSwigger Labs: client-side vulnerabilities → server-side vulnerabilities
 	•	DVWA Labs
 
@@ -153,19 +154,19 @@ Do AWS hands-on labs every week, through every phase.
 
 Phase 1: Foundations
 
-	1.	AI foundation + Optimizing Generative AI
-	2.	Cisco Introduction to Cybersecurity
+	1.	AI foundation + Optimizing Generative AI(https://www.netacad.com/courses/ibm-foundations-understanding-ai?courseLang=en-US&instance_id=bdd4b78f-4660-4e68-ab36-d2db88eb2854)
+	2.	Cisco Introduction to Cybersecurity (https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US&instance_id=f908c6b5-7cd2-466d-a4ba-a19de81b5d7a)
 	•	Resource: Cisco NetAcad (free)
 	3.	Cisco CCNA 1 / Networking Basics
 	•	Resource: Cisco NetAcad (free)
 
 Phase 2: Core Technical Skills
 
-	4.	Linux: Cisco Linux Essentials
+	4.	Linux: Cisco Linux Essentials (https://www.netacad.com/courses/linux-1?courseLang=en-US&instance_id=007f4d3d-90aa-4d9b-a129-9fe26c8f4223)
 	•	Resource: Cisco NetAcad (free)
 	5.	Python: Cisco Python Essentials 1 & 2
 	•	Resource: Cisco NetAcad (free)
-	6.	Cisco CyberOps Associate (Security+ substitute, with a real cert at the end)
+	6.	Cisco CyberOps Associate (Security+ substitute, with a real cert at the end) (https://www.netacad.com/trainings/cyberops-associate?courseLang=en-US&instance_id=f188ebad-c7e4-499d-9de9-fb732a1553a7)
 	•	Resource: Cisco NetAcad
 	7.	Windows / Active Directory: search "Active Directory fundamentals"
 	•	Resource: Microsoft Learn (free), https://learn.microsoft.com
