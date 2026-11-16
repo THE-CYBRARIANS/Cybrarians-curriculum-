@@ -22,6 +22,7 @@ https://www.netacad.com/courses/python-essentials-1?courseLang=en-US&instance_id
 networking basics 
 https://www.netacad.com/courses/networking-basics?courseLang=en-US&instance_id=6611a1b1-4387-40f9-b7d2-9adc5cbb8b12
 
+compelling report 
 https://www.netacad.com/courses/compelling-reports?courseLang=en-US&instance_id=87d900aa-4a63-4da8-bb1e-fc8dd15ca2c1
 
 Linux essentials 
